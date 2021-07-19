@@ -1,1 +1,3 @@
-# chrome-dev-tools-css
+# Chrome Developer Tools - CSS
+
+[Tutorial Link](https://developer.chrome.com/docs/devtools/css/)
